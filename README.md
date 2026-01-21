@@ -37,11 +37,3 @@ The system delivers **transparent, goal-aligned recommendations** with human-rea
   - `matplotlib` → chart visualization  
   - `evaluate` → BLEU score evaluation  
 
-
----
-
-## ⚙️ Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/siddhilokare/mutual_funds_recommendation_system.git
-   cd mutual_funds_recommendation_system
